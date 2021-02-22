@@ -1,5 +1,9 @@
 ## 안녕하세요! 👋
 
+<p align="center">
+    <img src="./main_img1.gif" alt="slideshow" />
+</p>
+
 ### Interests
 
 <p align="center">
