@@ -9,7 +9,14 @@
 <p align="center">
     <img src="https://img.shields.io/badge/ApacheHadoop-66CCFF?style=for-the-badge&logo=ApacheHadoop&logoColor=white"/>
     <img src="https://img.shields.io/badge/ApacheHive-FDEE21?style=for-the-badge&logo=ApacheHive&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ApacheSpark-E25A1C?style=for-the-badge&logo=ApacheSpark&logoColor=white"/>
     <img src="https://img.shields.io/badge/ApacheKafka-231F20?style=for-the-badge&logo=ApacheKafka&logoColor=white"/>
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=Elastic&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ElasticStack-005571?style=for-the-badge&logo=ElasticStack&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white"/>
 </p>
 
 <p align="center">
