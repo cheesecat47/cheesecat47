@@ -12,30 +12,11 @@
 
 ### Skills
 
-#### Backend
-
-- 2️⃣ Python
-- 1️⃣ Go, Java, Django, Httpd, Tomcat, Traefik, Kafka, MQTT, Faust
-
-#### DevOps
-
-- 2️⃣ Docker, Docker-compose, Prometheus, Grafana
-- 1️⃣ Kubernetes, GitHub Action, Oracle VirtualBox, Vagrant, Azure, ELK, Infisical
-
-#### Database
-
-- 1️⃣ PostgreSQL, MySQL, Cassandra
-
-#### Frontend
-
-- 1️⃣ JavaScript, React, Vite, Gatsby, Flutter, Swift
-
-#### Etc.
-
-- 2️⃣ Ubuntu, Bash, Git, Jupyter Notebook
-- 1️⃣ HDFS, Zookeeper, Soot, Latex
-
-1️⃣ 사용해 본 적 있음 또는 흥미가 있음 | 2️⃣ 익숙하게 사용 | 3️⃣ 프로덕션 개발 가능
+- Backend: Python, Go, Java, Django, Httpd, Tomcat, Traefik, Kafka, MQTT, Faust
+- DevOps: Docker, Docker-compose, Prometheus, Grafana, Kubernetes, GitHub Action, Oracle VirtualBox, Vagrant, Azure, ELK, Infisical
+- Database: PostgreSQL, MySQL, Cassandra
+- Frontend: JavaScript, React, Vite, Gatsby, Flutter, Swift
+- Etc.: Ubuntu, Bash, Git, Jupyter Notebook, HDFS, Zookeeper, Soot, Latex
 
 ---
 
