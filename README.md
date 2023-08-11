@@ -44,8 +44,11 @@
     <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white"/>
 </p> -->
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcheesecat47&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
+
 [![cheesecat47's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheesecat47&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [![cheesecat47's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cheesecat47&count_private=true&show_icons=true&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=cheesecat47&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=cheesecat47)](https://solved.ac/cheesecat47)
 
 <!-- https://simpleicons.org/ -->
