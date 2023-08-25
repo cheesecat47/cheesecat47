@@ -12,11 +12,10 @@
 
 ### Skills
 
-- Backend: Python, Go, Java, Django, Httpd, Tomcat, Traefik, Kafka, MQTT, Faust
-- DevOps: Docker, Docker-compose, Prometheus, Grafana, Kubernetes, GitHub Action, Oracle VirtualBox, Vagrant, Azure, ELK, Infisical
-- Database: PostgreSQL, MySQL, Cassandra
-- Frontend: JavaScript, React, Vite, Gatsby, Flutter, Swift
-- Etc.: Ubuntu, Bash, Git, Jupyter Notebook, HDFS, Zookeeper, Soot, Latex
+- Backend: Python, Java, Go
+- DevOps: Docker, Docker-compose, Prometheus, Grafana
+- Database: MySQL
+- Etc.: Ubuntu, Git
 
 ---
 
