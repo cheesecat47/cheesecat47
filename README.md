@@ -17,6 +17,10 @@
 - Database: MySQL
 - Etc.: Ubuntu, Git
 
+### Awards
+
+- 2023.08.25. HSAT(Hyundai Software Aptitude Test) 2023년 7차 Softeer 정기 역량 진단 Level 3 취득
+
 ---
 
 <!-- <p align="center">
