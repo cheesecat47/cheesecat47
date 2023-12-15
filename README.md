@@ -1,5 +1,3 @@
-<https://cheesecat47.github.io/about/>
-
 ## 안녕하세요, 신주용입니다.
 
 ### I’m interested in …  
@@ -8,14 +6,16 @@
 
 ### Skills
 
-- Backend: Python, Java, Go
-- DevOps: Docker, Docker-compose, Prometheus, Grafana
+- Backend: Java, Python, Go
+- DevOps: Docker, Prometheus, Grafana
 - Database: MySQL
 - Etc.: Ubuntu, Git
 
 ### Certifications
 
-- 2023.08.25. HSAT(Hyundai Software Aptitude Test) 2023년 7차 Softeer 정기 역량 진단 Level 3 취득
+- 2023.12.15. 제 51회 SQL 개발자 (SQLD)
+- 2023.08.25. HSAT(Hyundai Software Aptitude Test) 2023년 7차 Softeer 정기 역량 진단 Level 3
+- 2022.09.03. ACTFL OPIc (영어) Intermediate High
 
 ---
 
