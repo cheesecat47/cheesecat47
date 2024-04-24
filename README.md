@@ -7,8 +7,8 @@
 | Backend        | Java, Spring, Python, Go                                     |
 | Frontend       | JavaScript, React, HTML/CSS                                  |
 | Database       | MySQL, MariaDB, PostgreSQL                                   |
-| Infrastructure | Ubuntu Linux, Git, Docker/Docker Compose, Prometheus/Grafana |
-| Tool           | Jira, Slack, Mattermost, Figma                               |
+| Infrastructure | Linux, Git, Docker/Docker Compose, Prometheus/Grafana        |
+| Tool           | Notion, Slack, Mattermost, Jira, Figma                       |
 
 ## Certifications
 
