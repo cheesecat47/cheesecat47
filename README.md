@@ -1,22 +1,33 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cheesecat47&theme=onedark)
+### 안녕하세요!
 
-## Skills
+I enhanced workflow efficiency by implementing automation for data analysis procedures, reducing processing time from hours to around 10 minutes. Additionally, I monitored logs and metric data and collaborated with colleagues to apply patches, leading to improved system stability. 
 
-|                |                                                              |
-|:---------------|:-------------------------------------------------------------|
-| Backend        | Java, Spring, Python, Go                                     |
-| Frontend       | JavaScript, React, HTML/CSS                                  |
-| Database       | MySQL, MariaDB, PostgreSQL                                   |
-| Infrastructure | Linux, Git, Docker/Docker Compose, Prometheus/Grafana        |
-| Tool           | Notion, Slack, Mattermost, Jira, Figma                       |
+As a team leader on two projects, I fostered a collaborative culture through regular retrospectives and code review practices. These efforts led to our project being selected as the best. 
 
-## Certifications
+I also enjoy blogging to share the problems and solutions I've encountered, potentially helping other developers.
 
-|             |                                                                     |
-|:------------|:--------------------------------------------------------------------|
-| 2023.12.15. | 제 51회 SQL 개발자(SQLD)                                               |
-| 2023.08.25. | HSAT(Hyundai Software Aptitude Test) 7차 Softeer 정기 역량 진단 Level 3 |
-| 2022.09.03. | ACTFL OPIc(영어) Intermediate High                                   |
+### Skills
+
+- Backend: Java*, Python*, Spring, FastAPI, Go
+  - BE projects using Spring Boot, JPA, FastAPI.
+  - Data analysis and processing using Jupyter lab.
+- Frontend: JavaScript, React, TailwindCSS
+  - Able to build simple websites.
+- Database: MySQL*, MariaDB*, PostgreSQL
+  - Use MySQL and MariaDB for the last 3 projects.
+- Infrastructure: Linux, Git, Docker*, Prometheus/Grafana
+  - Multiple Docker Compose-based service deployments.
+- Tool: Notion, Slack, Mattermost, Jira, Figma
+  - Use messengers, collaboration tools, etc. in team projects.
+
+### Certifications
+
+- 2023.12.15. 제 51회 SQL 개발자(SQLD)
+- 2023.08.25. HSAT(Hyundai Software Aptitude Test) 7차 Softeer 정기 역량 진단 Level 3
+- 2022.09.03. ACTFL OPIc(영어) Intermediate High
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cheesecat47)
+
 
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcheesecat47&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
