@@ -8,23 +8,26 @@ I also enjoy blogging to share the problems and solutions I've encountered, pote
 
 ### Skills
 
-- Backend: Java*, Python*, Spring, FastAPI, Go
+- Backend: Java*, Python*, Go
   - BE projects using Spring Boot, JPA, FastAPI.
-  - Data analysis and processing using Jupyter lab.
+  - Data analysis and processing using Jupyter Notebook.
+  - AI model training and inference with PyTorch.
 - Frontend: JavaScript, React, TailwindCSS
   - Able to build simple websites.
-- Database: MySQL*, MariaDB*, PostgreSQL
-  - Use MySQL and MariaDB for the last 3 projects.
-- Infrastructure: Linux, Git, Docker*, Prometheus/Grafana
+- Database: MySQL, MariaDB, PostgreSQL
+  - Used MySQL and MariaDB for the last 3 projects.
+- Infrastructure: Docker*, Linux, Git, Prometheus/Grafana
   - Multiple Docker Compose-based service deployments.
 - Tool: Notion, Slack, Mattermost, Jira, Figma
   - Use messengers, collaboration tools, etc. in team projects.
 
-### Certifications
+### Awards and Certifications
 
-- 2023.12.15. 제 51회 SQL 개발자(SQLD)
-- 2023.08.25. HSAT(Hyundai Software Aptitude Test) 7차 Softeer 정기 역량 진단 Level 3
-- 2022.09.03. ACTFL OPIc(영어) Intermediate High
+- 2024.05. 삼성 청년 SW 아카데미(SSAFY) 우수 자율 프로젝트 선정 "CampU"
+- 2024.04. 삼성 청년 SW 아카데미(SSAFY) 최우수 특화 프로젝트 선정 "preview"
+- 2023.12. 제 51회 SQL 개발자(SQLD)
+- 2023.08. HSAT(Hyundai Software Aptitude Test) 7차 Softeer 정기 역량 진단 Level 3
+- 2022.09. ACTFL OPIc(영어) Intermediate High
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cheesecat47)
 
