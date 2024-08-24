@@ -23,6 +23,7 @@ I also enjoy blogging to share the problems and solutions I've encountered, pote
 
 ### Awards and Certifications
 
+- 2024.08. Microsoft Certified: Azure Fundamentals
 - 2024.05. 삼성 청년 SW 아카데미(SSAFY) 우수 자율 프로젝트 선정 "CampU"
 - 2024.04. 삼성 청년 SW 아카데미(SSAFY) 최우수 특화 프로젝트 선정 "preview"
 - 2023.12. 제 51회 SQL 개발자(SQLD)
